@@ -27,7 +27,7 @@ Compile and run the simulation with these easy steps:
 1. Build the project:
 
    ```sh
-   g++ main.cpp -o simulation -lsfml-graphics -lsfml-window -lsfml-system
+   g++ -std=c++11 main.cpp -o sim -lsfml-graphics -lsfml-window -lsfml-system
    ```
 
 2. Execute the compiled simulation:
