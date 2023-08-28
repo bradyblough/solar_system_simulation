@@ -33,7 +33,7 @@ Compile and run the simulation with these easy steps:
 2. Execute the compiled simulation:
 
    ```sh
-   ./simulation
+   ./sim
    ```
 
 ## Usage
